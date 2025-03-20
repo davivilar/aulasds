@@ -11,9 +11,6 @@ git config --global user.name "Davi Vilar"
 git config --global user.email davivilar@gmail.com
 echo --- Mostrando a configuração atual do Github no computador
 git config --list
-
-echo -- Clonando aula de DS
-git clone https://github.com/davivilar/aulasds.git
 echo --- Fim ---
 echo --- Joao Lindo  Saudades ---
 
