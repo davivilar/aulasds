@@ -7,7 +7,7 @@ git add .
 
 echo --- Mensagem para Deus ----
 
-git commit -m "Aula de Links e formatação, Atividade Pratica - Criar pagina PEts"
+git commit -m "Estruturas de Repeticao"
 
 echo --- Enviar para Nuvem
 
